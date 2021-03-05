@@ -1,4 +1,4 @@
-package actionsrunner // import "."
+package actionsrunner // import "github.com/GitHubActionsRunner"
 
 Package actionsrunner provides setup and config for the Google Actions
 Runner local
