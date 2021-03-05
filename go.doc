@@ -1,0 +1,6 @@
+package actionsrunner // import "."
+
+Package actionsrunner provides setup and config for the Google Actions
+Runner local
+
+func IsUrl(str string) bool
